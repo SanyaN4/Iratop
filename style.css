@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+a {
+    border: 3px solid royalblue;
+    text-decoration: none;
+    color: white;
+    background-color: royalblue;
+    border-radius: 10px;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.roy {
+    background-color: blueviolet;
+    border: 3px solid blueviolet;
